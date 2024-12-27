@@ -14,7 +14,7 @@
     list-style-type: none; 
     padding: 0;
     margin: 0;
-    margin-top: -500px;
+    margin-top: -300px;
 }
 
 .image-list li {
@@ -71,6 +71,6 @@ button {
   text-align: left;
   font-family: "Lucida Sans Unicode";
   padding-left: 450px;
-  margin-top: -550px;
+  margin-top: -350px;
   margin-right: 200px;
 }
